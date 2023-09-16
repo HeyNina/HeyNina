@@ -1,6 +1,6 @@
 - 👋 Hi there, I'm Nina Shevchenko aka @heynina
 - 👀 I’m a Junior Data Analyst (ex-financial manager who in love with data and data tools)
-- 🌱 I live in Rusia, Moscow
+- 🌱 I live in Russia, Moscow
 
 
 <!---
